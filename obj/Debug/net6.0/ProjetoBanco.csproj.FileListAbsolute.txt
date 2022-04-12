@@ -1,0 +1,5 @@
+C:\Users\IFSP\Desktop\SP3024521\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.csproj.AssemblyReference.cache
+C:\Users\IFSP\Desktop\SP3024521\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Desktop\SP3024521\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.AssemblyInfoInputs.cache
+C:\Users\IFSP\Desktop\SP3024521\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.AssemblyInfo.cs
+C:\Users\IFSP\Desktop\SP3024521\ProjetoBanco\obj\Debug\net6.0\ProjetoBanco.csproj.CoreCompileInputs.cache
